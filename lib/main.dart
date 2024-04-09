@@ -8,7 +8,7 @@ void main() async    // Run : flutter run -d chrome --web-renderer html
 
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-        apiKey: "AIzaSyD5_UfFZjZLG-y-BN2ZTBQBMEUwNL6v75w",
+        apiKey: "(API HERE)",
         authDomain: "uber-flutter-clone-usersapp.firebaseapp.com",
         databaseURL: "https://uber-flutter-clone-usersapp-default-rtdb.firebaseio.com",
         projectId: "uber-flutter-clone-usersapp",
